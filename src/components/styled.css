@@ -1,0 +1,5 @@
+
+.show {
+    @apply flex flex-col items-center 
+        h-full w-full pt-6 absolute bg-gray-900 left-0 top-0;
+}
